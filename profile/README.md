@@ -44,9 +44,13 @@ This project is an Arduino-based card game implemented as part of the **Micropro
 - **LCD Display**: The LCD displays the suit of the card drawn, bonus cards, and the number of remaining cards.
 - **LED Display**: The LED color changes based on the character's suit, indicating its movement and state.
 
-## Contributing
+## Member
+- [SJ Hwang](https://github.com/justinbrianhwang)
+- [SJ Keum](https://github.com/Aurumm79)
+- [SC Kim](https://github.com/sososoosoo)
+- [SJ kim]()
+- [JY Ann]()
 
-This project is for academic purposes. If you'd like to contribute, please fork this repository and submit a pull request.
 
 ## License
 
