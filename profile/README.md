@@ -2,6 +2,10 @@
 
 This project is an Arduino-based card game implemented as part of the **Microprocessor** course at Yonsei University. The game takes place on an 8x8 grid, where 42 cards are revealed in each turn, and characters move based on the card's suit. The goal is for a character to reach the target row first.
 
+# Logo
+![Logo](https://github.com/user-attachments/assets/13f52d47-91a0-4575-ba3e-fff558ff6f70)
+
+
 ## Game Rules
 
 1. **Game Start**  
