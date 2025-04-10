@@ -49,7 +49,7 @@ This project is an Arduino-based card game implemented as part of the **Micropro
 - [SJ Keum](https://github.com/Aurumm79)
 - [SC Kim](https://github.com/sososoosoo)
 - [SJ kim]()
-- [JY Ann]()
+- [JY Ann](https://github.com/jyan01)
 
 
 ## License
