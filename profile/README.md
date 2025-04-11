@@ -48,7 +48,7 @@ This project is an Arduino-based card game implemented as part of the **Micropro
 - [SJ Hwang](https://github.com/justinbrianhwang)
 - [SJ Keum](https://github.com/Aurumm79)
 - [SC Kim](https://github.com/sososoosoo)
-- [SJ kim]()
+- [SJ kim](https://github.com/1n-times)
 - [JY Ann](https://github.com/jyan01)
 
 
